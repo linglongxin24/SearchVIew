@@ -1,4 +1,7 @@
 #【Android自定义View实战】之超简单SearchVIew
+
+>在Android开发中我们经常会用到搜索框，而系统提供的又不尽完美。所以自定义一个比较简单的SearchView。
+
 效果图
 
 <img src="https://github.com/linglongxin24/SearchVIew/blob/master/screenshorts/effect.jpg?raw=true" width="50%" height="50%"/>
